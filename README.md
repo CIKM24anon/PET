@@ -7,25 +7,20 @@ This is the official implementation of PET**(Personalized View Weighting with Da
 We use three widely used datasets for bundle recommendation, iFashion, NetEase and Youshu.
 For iFashion dataset, please unzip data.zip in the same folder.
 
-### Installation Steps
-1. **Clone the Repository**
+--- 
+### Run PET
+1. **iFashion**
    ```bash
-   git clone https://github.com/yourusername/PET.git
-   cd PET
-### Dataset
-For iFashion dataset, you should unzip data.zip first in iFashion folder.
+   python train.py -d iFashion
 
+2. **NetEase**
+   ```bash
+   python train.py -d NetEase
 
-### Run
-
-#### iFashion
-python train.py -d iFashion
-
-#### NetEase
-python train.py -d NetEase
-
-#### Youshu
-python train.py -d Youshu
+3. **Youshu**
+   ```bash
+   python train.py -d Youshu
+   
 
 
 
