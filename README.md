@@ -19,8 +19,8 @@ For iFashion dataset, please unzip data.zip in the same folder.
 
 3. **Youshu**
    ```bash
-   python train.py -d Youshu
-   
-
-
+   python train.py -d Youshu   
+---
+### Acknowledgement
+This code is implemented based on the open source code from the paper **CrossCBR : Cross-view Contrastive Learning for Bundle Recommendation**
 
