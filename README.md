@@ -1,5 +1,5 @@
 # PET
-This is the official implementation of PET**(Personalized View Weighting with Data Enhancement Two-Pronged Contrast)** (Under Submission to CIKM 2024 Short Paper Track) 
+This is the official implementation of PET **(Personalized View Weighting with Data Enhancement Two-Pronged Contrast)** (Under Submission to CIKM 2024 Short Paper Track) 
 
 ---
 
