@@ -67,7 +67,7 @@ class BundleTrainDataset(Dataset):
         self.i_i_for_neg_sample = i_i_for_neg_sample
         self.name = name
         
-        with open(f'{name}_ui.pkl', 'rb') as f:
+        with open(f'datasets/{name}/{name}_ui.pkl', 'rb') as f:
             self.ui = pickle.load(f)
         
             
