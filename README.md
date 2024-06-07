@@ -2,19 +2,19 @@
 This is the official implementation of PET **(Personalized View Weighting with Data Enhancement Two-Pronged Contrast)** 
 (Under Submission to CIKM 2024 Short Paper Track) 
 
---
+---
 ### Supplementary Document
 For additional data anlysis results and details about loss function, you can check here.
 [Supplementary.pdf](https://github.com/user-attachments/files/15715970/Supplementary.pdf)
 
---
+---
 
 ### Datasets
 We use three widely used datasets for bundle recommendation, iFashion, NetEase and Youshu.
 For the iFashion dataset, please unzip data.zip in the same folder.
 
 
---
+---
 ### Run PET
 1. **iFashion**
    ```bash
@@ -27,7 +27,7 @@ For the iFashion dataset, please unzip data.zip in the same folder.
 3. **Youshu**
    ```bash
    python train.py -d Youshu -g [gpu_id]   
---
+---
 ### Acknowledgement
 This code is implemented based on the open source code from the paper **CrossCBR : Cross-view Contrastive Learning for Bundle Recommendation** (KDD '22).
 
