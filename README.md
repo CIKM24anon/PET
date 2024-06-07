@@ -28,5 +28,5 @@ For iFashion dataset, please unzip data.zip in the same folder.
    python train.py -d Youshu -g [gpu_id]   
 ---
 ### Acknowledgement
-This code is implemented based on the open source code from the paper **CrossCBR : Cross-view Contrastive Learning for Bundle Recommendation**
+This code is implemented based on the open source code from the paper **CrossCBR : Cross-view Contrastive Learning for Bundle Recommendation** (KDD '22).
 
