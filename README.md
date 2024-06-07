@@ -17,19 +17,20 @@ For the iFashion dataset, please unzip data.zip in the same folder.
 ---
 ### Run PET
 ```bash
-   cd PET
+cd PET
 ```
 * **iFashion**
-   ```bash
-   python train.py -d iFashion -g [gpu_id]
-
+```bash
+python train.py -d iFashion -g [gpu_id]
+```
 * **NetEase**
-   ```bash
-   python train.py -d NetEase -g [gpu_id]
-
+```bash
+python train.py -d NetEase -g [gpu_id]
+```
 * **Youshu**
-   ```bash
-   python train.py -d Youshu -g [gpu_id]   
+```bash
+python train.py -d Youshu -g [gpu_id]   
+```
 ---
 ### Acknowledgement
 This code is implemented based on the open source code from the paper **CrossCBR : Cross-view Contrastive Learning for Bundle Recommendation** (KDD '22).
