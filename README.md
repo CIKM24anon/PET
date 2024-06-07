@@ -10,7 +10,7 @@ For additional data anlysis results and details about loss function, you can che
 
 ### Datasets
 We use three widely used datasets for bundle recommendation, iFashion, NetEase and Youshu.
-For iFashion dataset, please unzip data.zip in the same folder.
+For the iFashion dataset, please unzip data.zip in the same folder.
 
 
 --- 
