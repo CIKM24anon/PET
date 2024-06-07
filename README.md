@@ -18,6 +18,7 @@ For the iFashion dataset, please unzip data.zip in the same folder.
 ### Run PET
 ```bash
    cd PET
+```
 * **iFashion**
    ```bash
    python train.py -d iFashion -g [gpu_id]
