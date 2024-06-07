@@ -10,12 +10,14 @@ For additional data anlysis results and details about loss function, you can che
 ---
 
 ### Datasets
-We use three widely used datasets for bundle recommendation, iFashion, NetEase and Youshu.
+We use three widely used datasets for bundle recommendation, **iFashion**, **NetEase** and **Youshu**.
 For the iFashion dataset, please unzip data.zip in the same folder.
 
 
 ---
 ### Run PET
+'''bash
+   cd PET
 * **iFashion**
    ```bash
    python train.py -d iFashion -g [gpu_id]
