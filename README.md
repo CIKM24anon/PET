@@ -16,15 +16,15 @@ For the iFashion dataset, please unzip data.zip in the same folder.
 
 ---
 ### Run PET
-1. **iFashion**
+* **iFashion**
    ```bash
    python train.py -d iFashion -g [gpu_id]
 
-2. **NetEase**
+* **NetEase**
    ```bash
    python train.py -d NetEase -g [gpu_id]
 
-3. **Youshu**
+* **Youshu**
    ```bash
    python train.py -d Youshu -g [gpu_id]   
 ---
