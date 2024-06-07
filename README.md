@@ -3,14 +3,14 @@ This is the official implementation of PET **(Personalized View Weighting with D
 (Under Submission to CIKM 2024 Short Paper Track) 
 
 ---
+### Supplementary Document
+For additional data anlysis results and details about loss function, you can check here. [Supplementary Document.pdf](https://github.com/user-attachments/files/15701693/Supplementary.Document.pdf)
+
+---
 
 ### Datasets
 We use three widely used datasets for bundle recommendation, iFashion, NetEase and Youshu.
 For iFashion dataset, please unzip data.zip in the same folder.
-
----
-### Supplementary Document
-For additional data anlysis results and details about loss function, you can check here. [Supplementary Document.pdf](https://github.com/user-attachments/files/15701693/Supplementary.Document.pdf)
 
 
 --- 
