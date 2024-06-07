@@ -16,7 +16,7 @@ For the iFashion dataset, please unzip data.zip in the same folder.
 
 ---
 ### Run PET
-'''bash
+```bash
    cd PET
 * **iFashion**
    ```bash
