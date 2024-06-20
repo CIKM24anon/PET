@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# MultiCBR
+# PET
 from typing import OrderedDict
 
 import numpy as np
